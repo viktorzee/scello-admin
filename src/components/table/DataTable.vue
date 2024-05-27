@@ -1,5 +1,5 @@
 <template>
-    <div class="table-container pb-28">
+    <div class="table-container pb-4 rounded-lg">
       <header id="table-header" class="mb-5 text-center sm:text-left">
         <h1
           class="text-[#6E6893] font-bold text-sm uppercase tracking-widest"

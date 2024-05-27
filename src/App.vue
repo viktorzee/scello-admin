@@ -1,5 +1,5 @@
 <template>
-  <main class="container mx-auto pt-14">
+  <main class="container mx-auto pt-14 2xl:p-10">
     <data-table />
   </main>
 </template>
