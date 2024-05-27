@@ -8,7 +8,7 @@
           :checked="modelValue"
         />
         <span class="box">
-          <img src="../../assets/svgs/check-icon.svg.svg" alt="" />
+          <img src="../../assets/svgs/check-icon.svg" alt="" />
         </span>
       </label>
     </div>

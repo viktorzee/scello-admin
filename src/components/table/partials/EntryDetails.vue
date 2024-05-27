@@ -24,7 +24,7 @@
                     {{ heading }}
                     <img
                       v-if="heading == 'detail'"
-                      src="../../assets/svgs/info-icon.svg"
+                      src="../../../assets/svgs/info-icon.svg"
                       alt=""
                       class="ml-1"
                       :class="{ 'detail-heading-hover': heading == 'detail' }"

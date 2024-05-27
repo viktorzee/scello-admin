@@ -16,7 +16,7 @@
             "
           >
             <img
-              src="../../../assets/svgs/master.svg.svg"
+              src="../../../assets/svgs/master.svg"
               alt=""
               :class="{ 'rotate-180': user.id == userDetail }"
               class="transition-transform"
